@@ -5,4 +5,4 @@ category: Services
 title: Rozszerzona rzeczywistośc<br> Na wyciągniecie ręki
 description: |
 ---
-<iframe src="https://player.vimeo.com/video/464739135" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/464739135" width="256" height="455" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
