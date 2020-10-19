@@ -2,10 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Aplikacja mobilna<br>Na system Android 
+title: Rozszerzona rzeczywistośc<br> Na wyciągniecie ręki
 description: |
 ---
-Przeglądanie ofert najmu oraz sprzedaży nieruchomości z wykorzystaniem rozszerzonej rzeczywistości. Aplikacja ma być dostępna bezpłatnie dla użytkowników końcowych w sklepie [Google Play](https://play.google.com/store?hl=pl&gl=US). 
-Aplikacja poza wyświetlaniem ofert najmu oraz sprzedaży w AR (tzw. „digital banner”), kierunku oraz odległości, zapewnia dodatkowe funkcjonalności, takie jak:
-- w trakcie pobytu w obiekcie sprawdzenie odległości do najbliższego sklepu, przystanku, obiektu użyteczności publicznej (szkoły, zabytku etc.), również z wykorzystaniem technologii AR;
-- zapewnienie informacji o historycznych miejscach, jak również funkcjonalności „podróży w czasie” z wykorzystaniem technologii AR – zarówno podróży w przeszłość (zdjęcia historyczne) jak i w przyszłość (wizualizacje np. projektów rewitalizacyjnych);
+<iframe src="https://player.vimeo.com/video/464739135" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
