@@ -1,0 +1,9 @@
+---
+layout: default
+img: phones.png
+category: Android2
+title: 
+description: |
+---
+- w trakcie pobytu w obiekcie sprawdzenie odległości do najbliższego sklepu, przystanku, obiektu użyteczności publicznej (szkoły, zabytku etc.), również z wykorzystaniem technologii AR;
+- zapewnienie informacji o historycznych miejscach, jak również funkcjonalności „podróży w czasie” z wykorzystaniem technologii AR – zarówno podróży w przeszłość (zdjęcia historyczne) jak i w przyszłość (wizualizacje np. projektów rewitalizacyjnych);
