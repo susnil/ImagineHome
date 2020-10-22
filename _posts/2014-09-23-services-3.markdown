@@ -1,8 +1,0 @@
----
-layout: default
-img: phones.png
-category: Services
-title: Rozszerzona rzeczywistośc<br> Na wyciągniecie ręki
-description: |
----
-<iframe src="https://player.vimeo.com/video/464739135?background=1" width="256" height="455" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
